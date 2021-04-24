@@ -1,4 +1,4 @@
-# virtual-makeup
+# Virtual Makeup
 
 Apply virtual layer of make-up on an image using python.
 
